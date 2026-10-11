@@ -83,7 +83,3 @@ This app is currently in **private beta**. If you've been invited to test it, pl
 ## 📄 License
 
 This project is currently **private and not open source**. All rights reserved.
-
----
-
-*Built with ❤️ and a lot of 🐾*
