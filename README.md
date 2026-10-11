@@ -44,17 +44,6 @@ PawDay is a mobile-first web app for dog owners that provides daily personalised
 
 ---
 
-## 💳 Pricing
-
-| Plan | Price | Key features |
-|---|---|---|
-| **Free** | $0 | 5 activities, 2 AI suggestions/category, recipe ingredients, basic journal, SOS Vet, basic portions |
-| **Pro ⭐** | $9.99/mo or $59.99/yr | All activities, 4x AI suggestions, full recipes + AI generator, weight tracker, full journal history, PDF export, custom reminders, 6 training tricks |
-| **Pro+ 💎** | $14.99/mo or $89.99/yr | Everything in Pro + multi-dog profiles, full training library (12 tricks), precision portion calculator, breed-specific insights |
-
-> 7-day free trial included. Cancel anytime.
-
----
 
 ## 🚧 Demo limitations
 
